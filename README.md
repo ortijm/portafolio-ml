@@ -16,20 +16,20 @@ Aquí encontrarás mis proyectos más relevantes en ciencia de datos y aprendiza
 ## 🚀 Proyectos Destacados
 
 ### 1️⃣ Predicción de Ingresos - *Modelos de ML Clásicos*
-🔗 [Repositorio](https://github.com/usuario/proyecto-ml-ingresos)  
-▶️ [Abrir en Colab](https://colab.research.google.com/github/usuario/proyecto-ml-ingresos/notebooks/modelo.ipynb)
+🔗 [Repositorio](https://github.com/ortijm/proyecto-ml-interpretacion)  
+▶️ [Abrir en Colab](https://colab.research.google.com/github/ortijm/proyecto-ml-interpretacion/notebooks/modelo.ipynb)
 
 ---
 
 ### 2️⃣ Clasificación de Imágenes - *CNN con TensorFlow*
-🔗 [Repositorio](https://github.com/usuario/proyecto-ml-imagenes)  
-▶️ [Abrir en Colab](https://colab.research.google.com/github/usuario/proyecto-ml-imagenes/notebooks/cnn.ipynb)
+🔗 [Repositorio](https://github.com/ortijm/proyecto-ml-imagenes)  
+▶️ [Abrir en Colab](https://colab.research.google.com/github/ortijm/proyecto-ml-imagenes/notebooks/cnn.ipynb)
 
 ---
 
 ### 3️⃣ Análisis de Texto - *Procesamiento de Lenguaje Natural*
-🔗 [Repositorio](https://github.com/usuario/proyecto-ml-nlp)  
-▶️ [Abrir en Colab](https://colab.research.google.com/github/usuario/proyecto-ml-nlp/notebooks/nlp.ipynb)
+🔗 [Repositorio](https://github.com/ortijm/proyecto-ml-nlp)  
+▶️ [Abrir en Colab](https://colab.research.google.com/github/ortijm/proyecto-ml-nlp/notebooks/nlp.ipynb)
 
 ---
 
