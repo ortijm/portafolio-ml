@@ -29,7 +29,7 @@ Aquí encontrarás mis proyectos más relevantes en ciencia de datos y aprendiza
 
 ### 3️⃣ Análisis de Texto - *Procesamiento de Lenguaje Natural*
 🔗 [Repositorio](https://github.com/ortijm/proyecto-ml-nlp)  
-▶️ [Abrir en Colab](https://colab.research.google.com/github/ortijm/proyecto-ml-nlp/notebooks/nlp.ipynb)
+▶️ [Abrir en Colab](https://colab.research.google.com/github/ortijm/proyecto-ml-nlp/notebooks/Proyecto-nlp.ipynb)
 
 ---
 
