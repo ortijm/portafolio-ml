@@ -15,9 +15,9 @@ Aquí encontrarás mis proyectos más relevantes en ciencia de datos y aprendiza
 
 ## 🚀 Proyectos Destacados
 
-### 1️⃣ Predicción de Ingresos - *Modelos de ML Clásicos*
-🔗 [Repositorio](https://github.com/usuario/proyecto-ml-ingresos)  
-▶️ [Abrir en Colab](https://colab.research.google.com/github/usuario/proyecto-ml-ingresos/notebooks/modelo.ipynb)
+### 1️⃣ Predicción de Ingresos - *Modelos de Clasificación*
+🔗 [Repositorio](https://github.com/usuario/proyecto-ml-interpretacion)  
+▶️ [Abrir en Colab](https://colab.research.google.com/github/usuario/proyecto-ml-interpretacion/blob/master/notebooks/proyecto.ipynb)
 
 ---
 
