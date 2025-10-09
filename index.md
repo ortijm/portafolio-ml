@@ -15,9 +15,9 @@ Aquí encontrarás mis proyectos más relevantes en ciencia de datos y aprendiza
 
 ## 🚀 Proyectos Destacados
 
-### 1️⃣ Predicción de Ingresos - *Modelos de ML Clásicos*
+### 1️⃣ Predicción de Ingresos - *Modelos de Clasificación*
 🔗 [Repositorio](https://github.com/ortijm/proyecto-ml-interpretacion)  
-▶️ [Abrir en Colab](https://colab.research.google.com/github/ortijm/proyecto-ml-interpretacion/blob/master/notebooks/modelo.ipynb)
+▶️ [Abrir en Colab](https://colab.research.google.com/github/ortijm/proyecto-ml-interpretacion/blob/master/notebooks/proyecto.ipynb)
 
 ---
 
