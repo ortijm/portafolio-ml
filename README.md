@@ -35,4 +35,4 @@ Aquí encontrarás mis proyectos más relevantes en ciencia de datos y aprendiza
 
 ## 📫 Contacto
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jortiz-olivares)  
-- 📧 jortiz.olivaresm@gmail.com  
+- 📧 jortiz.olivares@gmail.com  
