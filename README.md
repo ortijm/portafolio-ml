@@ -23,7 +23,7 @@ Aquí encontrarás mis proyectos más relevantes en ciencia de datos y aprendiza
 
 ### 2️⃣ Clasificación de Imágenes - *CNN con TensorFlow*
 🔗 [Repositorio](https://github.com/usuario/proyecto-ml-imagenes)  
-▶️ [Abrir en Colab](https://colab.research.google.com/github/usuario/proyecto-ml-imagenes/notebooks/cnn.ipynb)
+▶️ [Abrir en Colab](https://colab.research.google.com/github/ortijm/proyecto-ml-imagenes/blob/master/notebooks/proyecto.ipynb)
 
 ---
 
