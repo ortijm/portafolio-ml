@@ -9,7 +9,7 @@ Aquí encontrarás mis proyectos más relevantes en ciencia de datos y aprendiza
 ## 👨‍💻 Sobre mí
 - 🎯 Especialización en **Machine Learning y Data Science**.  
 - 📊 Experiencia en minería, optimización de procesos y visualización de datos.  
-- 🤖 Interés en aplicar IA en minería, salud, RRHH y finanzas.  
+- 🤖 Interés en aplicar IA en minería, salud y RRHH.  
 
 ---
 
